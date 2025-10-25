@@ -3,3 +3,4 @@
 *.ipynb !text !filter !merge !diff
 *.pt !text !filter !merge !diff
 *.txt !text !filter !merge !diff
+data/user_knn_tuning_result.pkl filter=lfs diff=lfs merge=lfs -text
