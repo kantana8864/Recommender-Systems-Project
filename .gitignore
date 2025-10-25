@@ -1,7 +1,6 @@
-data/
-*.npy
-*.pkl
-*.csv
+# *.npy
+# *.pkl
+# *.csv
 
 .ipynb_checkpoints/
 
